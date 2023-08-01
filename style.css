@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@600&display=swap');
+
+body{
+    background-color: rgb(197, 207, 216);
+}
+
+.formatIMG{
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.textformat{
+    text-align: center;
+    margin: auto;
+    display: block;
+    position: relative;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 20px;
+}
